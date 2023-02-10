@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://buy.ramp.network?hostApiKey=your_host_apiKey&hostAppName=TixHive&hostLogoUrl=https://www.tixhive.com/_next/static/media/tixhive.d052a56e.svg"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ramp crypto
         </a>
       </header>
     </div>
